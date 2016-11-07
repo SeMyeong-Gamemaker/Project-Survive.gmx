@@ -1,0 +1,21 @@
+spr_ppistol (player pistol) : 권총
+spr_nzombie (normal zombie) : 노멀 좀비
+spr_player : 플레이어
+spr_bullet : 총알
+spr_bwall (black wall) : 검은 벽(이용할 벽)
+spr_wwall (white wall) : 하얀 벽(맵 둘레)
+spr_pistol : 권총
+spr_m4 : 기관총
+spr_gl : 유탄발사기
+spr_gn : 총검
+spr_bat : 방망이
+
+=============================================
+
+추가할 것 [2016. 11. 07. (AM 9:01))]
+
+1 _ (시작, 게임오버) 화면
+2 _ 더 많은 맵
+3 _ (체력, 총알) 소모적 요소
+4 _ 더 많은 좀비(돌진, 탱크 등)
+5 _ 다양한 아이템(체력회복, 이동속도 상승, 방어구 등)
